@@ -1,7 +1,7 @@
 .column1 {
   float: left;
   width: 50%;
-  background-color: #386978;
+  background-color: #3495B3;
   display: flex;
   height: 100vh;
   font-style: normal;
@@ -25,7 +25,7 @@
   font-size: 46px;
   line-height: 54px;
   letter-spacing: -0.02em;
-  color: #386978;
+  color: #3495B3;
   align-items: center;
   flex-direction: column;
   margin: auto;
@@ -45,9 +45,9 @@
 }
 
 .head2{
-  border-right:2px solid #386978;
-  border-top:2px solid #386978;
-  border-bottom:2px solid #386978;
+  border-right:2px solid #3495B3;
+  border-top:2px solid #3495B3;
+  border-bottom:2px solid #3495B3;
   padding-right: 60px;
   padding-left: 5px;
   padding-top: 10px;
