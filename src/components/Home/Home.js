@@ -1,8 +1,8 @@
-import "./Button.css";
-import "./SignUp.css";
-import Image from "./Image";
-import Pic1 from "./images/pic1.png";
-import Pic2 from "./images/pic2.png";
+import "../Button.css";
+import "./Home.css";
+import Image from "../Image";
+import Pic1 from "../images/pic1.png";
+import Pic2 from "../images/pic2.png";
 import { Link } from 'react-router-dom';
 // import { useNavigate } from 'react-router-dom';
 const SignUp = () => {
